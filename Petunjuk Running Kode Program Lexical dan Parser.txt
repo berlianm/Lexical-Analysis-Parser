@@ -1,0 +1,22 @@
+===========================================================
+========== TUGAS BESAR TEORI BAHASA DAN AUTOMATA ==========
+===========================================================
+===================== LEXICAL ANALYZER ====================
+============== KELOMPOK 14 || KELAS IF-44-10 ==============
+===                                                     ===
+===  Berlian Muhammad Galin Al Awienoor   (1301204378)  ===
+===  Kiki Dwi Prasetyo                    (1301204027)  ===
+===  Eric Nur Rahman                      (1301200010)  ===
+===                                                     ===
+===========================================================
+
+Berikut langkah - langkah untuk menjalankan kode program yang telah kami buat :
+1. Buka file kode program “Kelompok 14 - Lexical dan Parser.py” yang sudah kelompok kami buat 
+   dalam bahasa pemrograman python dengan aplikasi seperti Visual Studio Code, dll.
+2. Atau buka link google collab berikut :  
+   https://colab.research.google.com/drive/1UkfAWf1wq7WZNQS1gAzuoUG9ANqtIFjH
+3. Run program
+4. Inputkan masukan (string) dengan kata yang sudah kami sediakan di terminal
+5. Lalu tekan enter untuk melanjutkan
+6. Akan muncul hasil atau keluaran (output) valid atau tidak validnya kata (string) 
+   yang telah diinputkan
